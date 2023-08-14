@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 - :computer: I work in Data Analytics.
-- :chart_with_upwards_trend: automatize different business processes, optimize and adjust internal processes in the system.
+- :chart_with_upwards_trend: I automatize different business processes, optimize and adjust internal processes in the system.
 - :memo: Keen on Python.
   
 </a>
@@ -19,4 +19,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354331/sentry.svg" title="SENTRY" **alt="SENTRY" width="40" height="40"/>
 </div>
